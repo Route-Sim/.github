@@ -14,4 +14,4 @@ Demo
 
 Click the image below to watch a short demo video of ROUTE in action.
 
-[![Route‑Sim Demo Video](https://img.youtube.com/vi/wtKllbXa09o/maxresdefault.jpg)](https://www.youtube.com/watch?v=wtKllbXa09o)
+[![Route‑Sim Demo Video](https://img.youtube.com/vi/UaU7pKiWsLE/maxresdefault.jpg)](https://youtu.be/UaU7pKiWsLE)
